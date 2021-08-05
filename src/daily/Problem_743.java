@@ -7,5 +7,9 @@ package daily;
  * @since 2021Äê8ÔÂ2ÈÕ
  */
 public class Problem_743 {
-
+	public int networkDelayTime(int[][] times, int n, int k) {
+		int result = 0;
+		
+		return result;
+    }
 }
